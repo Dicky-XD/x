@@ -1,0 +1,126 @@
+[
+  {
+    "jid": "6283159122215@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 5
+      },
+      {
+        "nama": "#toimage",
+        "count": 2
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6283839957096@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6289670952904@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 12
+      },
+      {
+        "nama": "#welcome",
+        "count": 1
+      },
+      {
+        "nama": "#left",
+        "count": 1
+      },
+      {
+        "nama": "#group",
+        "count": 2
+      },
+      {
+        "nama": "#close",
+        "count": 1
+      },
+      {
+        "nama": "#grupwa",
+        "count": 1
+      },
+      {
+        "nama": "#emojimix",
+        "count": 5
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6283140297382@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285714746500@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#smeme",
+        "count": 2
+      },
+      {
+        "nama": "#sticker",
+        "count": 3
+      },
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6282187377233@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tiktok",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "jid": "6289610328678@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#sticker",
+        "count": 4
+      },
+      {
+        "nama": "#infobot",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285878313791@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  }
+]
